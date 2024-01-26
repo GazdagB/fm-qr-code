@@ -27,6 +27,7 @@ body{
     padding: 0 30px;
 }
 
-.custom-card h4{
+.custom-card h1{
     color: hsl(218, 44%, 22%);
+    font-size: 24px;
 }
